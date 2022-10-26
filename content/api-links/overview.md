@@ -6,7 +6,6 @@ draft: false
 toc: true
 ---
 
-## Overview
 
 The current list of APIs are hosted at:
 
